@@ -1,0 +1,158 @@
+﻿<XMLNSC>
+  <Msg_Data>
+    <EAIMessage>
+      <EAIHeader>
+        <CIF>12892026</CIF>
+        <Lang>E</Lang>
+        <ChnlId>IB</ChnlId>
+        <FunctnId>191001</FunctnId>
+        <Rqstr_Info1></Rqstr_Info1>
+        <Rqstr_Info2></Rqstr_Info2>
+        <Rqstr_Info3></Rqstr_Info3>
+        <Rqstr_Info4>
+          <![CDATA[suryaziu53]]>
+        </Rqstr_Info4>
+        <EAIRtrnCd>000000</EAIRtrnCd>
+        <EAIRtrnCdDesc>Successful Operation</EAIRtrnCdDesc>
+        <FE_Ref_No>IBnwxf8FZAxi3pfPkG</FE_Ref_No>
+        <MsgFrmt>Get_Customer_Details_Rply_Msg</MsgFrmt>
+        <BERtrnCd></BERtrnCd>
+        <BERtrnCdDesc></BERtrnCdDesc>
+      </EAIHeader>
+      <Body>
+        <Name_1_EN>SHORT NAME</Name_1_EN>
+        <Name_1_AR>الاسم المختصر</Name_1_AR>
+        <Name_2_EN>SHORT NAME</Name_2_EN>
+        <Name_2_AR>الاسم المختصر</Name_2_AR>
+        <Name_3_EN>SHORT NAME</Name_3_EN>
+        <Name_3_AR>الاسم المختصر</Name_3_AR>
+        <Name_4_EN>SHORT NAME</Name_4_EN>
+        <Name_4_AR>الاسم المختصر</Name_4_AR>
+        <Short_Name_EN>SHORT NAME SHORT NAME SHORT NAME</Short_Name_EN>
+        <Short_Name_AR>الاسم المختصر الاسم المختصر الاسم المختصر</Short_Name_AR>
+        <Full_Name_EN>SHORT NAME SHORT NAME SHORT NAME SHORT NAME</Full_Name_EN>
+        <Full_Name_AR>الاسم المختصر الاسم المختصر الاسم المختصر الاسم المختصر</Full_Name_AR>
+        <Gndr>M</Gndr>
+        <DOB_G>1983-08-12</DOB_G>
+        <DOB_H>14031104</DOB_H>
+        <Age>493</Age>
+        <Ntnlty_Cd>SA</Ntnlty_Cd>
+        <Ntnlty_Name_EN>Saudi Arabia</Ntnlty_Name_EN>
+        <Ntnlty_Name_AR>المملكة العربية السعودية</Ntnlty_Name_AR>
+        <Mrtl_Status>M</Mrtl_Status>
+        <Emplyr_Name_EN>SHORT NAME</Emplyr_Name_EN>
+        <Emplyr_Name_AR>البنك السعودي للتسليف</Emplyr_Name_AR>
+        <ID_Tp>1</ID_Tp>
+        <Legal_ID>1148493198</Legal_ID>
+        <ID_Place_Issued>SA</ID_Place_Issued>
+        <ID_Date_Issued>1421-05-23</ID_Date_Issued>
+        <ID_Expry_Dt_G>20320121</ID_Expry_Dt_G>
+        <ID_Expry_Dt_H>14531008</ID_Expry_Dt_H>
+        <PO_Box_No>TESTADDRESS</PO_Box_No>
+        <Address_Street>TESTADDRESS</Address_Street>
+        <Bldng_NO></Bldng_NO>
+        <Pstl_CODE></Pstl_CODE>
+        <Town_Cntry>RIYADH</Town_Cntry>
+        <Cntry_Name_EN>Saudi Arabia</Cntry_Name_EN>
+        <Cntry_Name_AR>المملكة العربية السعودية</Cntry_Name_AR>
+        <Mbl_No>966554818722</Mbl_No>
+        <Home_Phone>966500000000</Home_Phone>
+        <Work_Phone>966500000000</Work_Phone>
+        <Fax_No></Fax_No>
+        <Email>testemail@bankalbilad.com</Email>
+        <Prfrrd_Lang>2</Prfrrd_Lang>
+        <Sctr>6220</Sctr>
+        <Legal_Status></Legal_Status>
+        <Pstng_Rstrct></Pstng_Rstrct>
+        <Sgmnt>50</Sgmnt>
+        <Brnch_ID>555</Brnch_ID>
+        <Town_Cntry_AR></Town_Cntry_AR>
+        <Residence>SA</Residence>
+        <Dstrct>الملك فهد</Dstrct>
+        <Address_Prt2>الملك فهد</Address_Prt2>
+        <Address_Prt3>TESTADDRESS</Address_Prt3>
+        <Address_Prt4></Address_Prt4>
+        <Address_Prt5>testemail@bankalbilad.com</Address_Prt5>
+        <Sponsor_Name></Sponsor_Name>
+        <Sponsor_Address></Sponsor_Address>
+        <SAMA_Status>200-1-1-1</SAMA_Status>
+        <Work_Phone_Ext></Work_Phone_Ext>
+        <Home_Phone_Ext>966500000000</Home_Phone_Ext>
+        <Pager></Pager>
+        <Package_Info></Package_Info>
+        <Occupation>Researcher</Occupation>
+        <Msg_En></Msg_En>
+        <Msg_Ar></Msg_Ar>
+        <Lgn_Allwd>Y</Lgn_Allwd>
+        <Mppng_Stts></Mppng_Stts>
+        <MFA_Mobl_Status>A</MFA_Mobl_Status>
+        <IB_Regstrd_Dt>20070430</IB_Regstrd_Dt>
+        <IVR_Regstrd_Dt>20080101</IVR_Regstrd_Dt>
+        <Mail_Address_Tp>2</Mail_Address_Tp>
+        <Wasel_Zip_Cd>12272</Wasel_Zip_Cd>
+        <Wasel_Adtnl_Cd>3893</Wasel_Adtnl_Cd>
+        <Wasel_Unit_No>1</Wasel_Unit_No>
+        <Wasel_Bldng_NO>6743</Wasel_Bldng_NO>
+        <WU_Card_No></WU_Card_No>
+        <Yrly_Trf_Freq>12</Yrly_Trf_Freq>
+        <Dpndnts_No>3</Dpndnts_No>
+        <Edctn_Lvl>Higher Studies</Edctn_Lvl>
+        <Nt_Mnthly_Slry>13000</Nt_Mnthly_Slry>
+        <Grss_Annl_Incm_Slry></Grss_Annl_Incm_Slry>
+        <Grss_Annl_Incm_Invstmnt></Grss_Annl_Incm_Invstmnt>
+        <Grss_Annl_Incm_Othrs></Grss_Annl_Incm_Othrs>
+        <Prprty_Val></Prprty_Val>
+        <Csh_Val></Csh_Val>
+        <Expctd_Dpsts></Expctd_Dpsts>
+        <Address></Address>
+        <Rsdnt_cty>ddd</Rsdnt_cty>
+        <Rstrct_Crd_Chkbk></Rstrct_Crd_Chkbk>
+        <KYC_Stts></KYC_Stts>
+        <KYC_Stts_Updt_Tmstmp>20230520 15:26:39</KYC_Stts_Updt_Tmstmp>
+        <KYC_Updt_Rmnng_Dys>0</KYC_Updt_Rmnng_Dys>
+        <Valid_Mail_Address>testemail@bankalbilad.com</Valid_Mail_Address>
+        <Slry_On_BAB>Y</Slry_On_BAB>
+        <OLP_Id_Als></OLP_Id_Als>
+        <OLP_Mrchnt_Id></OLP_Mrchnt_Id>
+        <Acct_Hldr>Y</Acct_Hldr>
+        <Househld>N</Househld>
+        <Trgt>1</Trgt>
+        <Sgmnt_Prnt></Sgmnt_Prnt>
+        <Sctr_Prnt></Sctr_Prnt>
+        <Ykn_Updt_Stts></Ykn_Updt_Stts>
+        <Ykn_Lst_Updt_Dt_H></Ykn_Lst_Updt_Dt_H>
+        <Ykn_Lst_Updt_Dt_G>20220523</Ykn_Lst_Updt_Dt_G>
+        <Id_Vrsn_No>4</Id_Vrsn_No>
+        <Lf_Stts>Alive</Lf_Stts>
+        <Ykn_Lgl_Stts></Ykn_Lgl_Stts>
+        <Dth_Dt_H></Dth_Dt_H>
+        <Dth_Dt_G></Dth_Dt_G>
+        <Spnsr_Name></Spnsr_Name>
+        <Cust_Tp>1</Cust_Tp>
+        <Ykn_Rmndr_Dt></Ykn_Rmndr_Dt>
+        <Ykn_Rmndr_Cnt></Ykn_Rmndr_Cnt>
+        <Brnch_Rmndr_Dt/>
+        <Chnls_Cll_Cntr></Chnls_Cll_Cntr>
+        <Pos_Dsclmr_Cnfrmd>Y</Pos_Dsclmr_Cnfrmd>
+        <Pos_Dsclmr_Cnfrmd_Chnl>RMB</Pos_Dsclmr_Cnfrmd_Chnl>
+        <Pos_Dsclmr_Cnfrmd_Dt>2022-08-22 13:00:35</Pos_Dsclmr_Cnfrmd_Dt>
+        <Emplymnt_Dt></Emplymnt_Dt>
+        <FATCA_Rep></FATCA_Rep>
+        <FATCA_Ref_Typ></FATCA_Ref_Typ>
+        <Tx_US_TIN_No></Tx_US_TIN_No>
+        <Gvrnmnt_Jdcry_Mltry_Flg>14280828</Gvrnmnt_Jdcry_Mltry_Flg>
+        <Dsclmr_Tp></Dsclmr_Tp>
+        <Dsclmr_Cnfrmd></Dsclmr_Cnfrmd>
+        <Dsclmr_Cnfrmd_Chnl></Dsclmr_Cnfrmd_Chnl>
+        <Dsclmr_Cnfrmd_Dt>N</Dsclmr_Cnfrmd_Dt>
+        <CIF_Opnd_Dt>20061118</CIF_Opnd_Dt>
+        <Rltd_Prty_Ovrrd></Rltd_Prty_Ovrrd>
+        <Hs_Avlbl_Ntfctns>N</Hs_Avlbl_Ntfctns>
+        <Unfd_No></Unfd_No>
+        <Tx_Id></Tx_Id>
+        <Grp_Tx_Id></Grp_Tx_Id>
+        <Pndng_RTP_Actn></Pndng_RTP_Actn>
+      </Body>
+    </EAIMessage>
+  </Msg_Data>
+</XMLNSC>

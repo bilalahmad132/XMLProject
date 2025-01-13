@@ -1,0 +1,6 @@
+@XMLProject_HostAddress = http://localhost:5023
+
+GET {{XMLProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "XMLProject.Controllers.CustomerController",
+    "Method": "GetCustomerDetails",
+    "RelativePath": "api/Customer/GetCustomerDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
