@@ -8,6 +8,8 @@ namespace XMLProject.Controllers
     [ApiController]
     public class CustomerController : ControllerBase
     {
+
+        //Get data from XMl file
         [HttpGet("GetCustomerDetails")]
         public IActionResult GetCustomerDetails()
         {
