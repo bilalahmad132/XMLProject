@@ -41,8 +41,7 @@ namespace XMLProject.Controllers
 
             if (customerDetails == null)
             {
-                //Customer details not found in the XML file. 
-                return NotFound("the updated code here");
+                return NotFound("Customer details not found in the XML file");
             }
 
             // Return the extracted data as JSON
