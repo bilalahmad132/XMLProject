@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{F90679C3-1534-45D0-8DCE-85E1B908D12D}|XMLProject\\XMLProject.csproj|c:\\users\\user\\source\\repos\\xmlproject\\xmlproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F90679C3-1534-45D0-8DCE-85E1B908D12D}|XMLProject\\XMLProject.csproj|solutionrelative:xmlproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90679C3-1534-45D0-8DCE-85E1B908D12D}|XMLProject\\XMLProject.csproj|c:\\users\\user\\source\\repos\\xmlproject\\xmlproject\\getcustomerbycifresponse.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F90679C3-1534-45D0-8DCE-85E1B908D12D}|XMLProject\\XMLProject.csproj|solutionrelative:xmlproject\\getcustomerbycifresponse.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90679C3-1534-45D0-8DCE-85E1B908D12D}|XMLProject\\XMLProject.csproj|c:\\users\\user\\source\\repos\\xmlproject\\xmlproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F90679C3-1534-45D0-8DCE-85E1B908D12D}|XMLProject\\XMLProject.csproj|solutionrelative:xmlproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90679C3-1534-45D0-8DCE-85E1B908D12D}|XMLProject\\XMLProject.csproj|c:\\users\\user\\source\\repos\\xmlproject\\xmlproject\\xmlproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F90679C3-1534-45D0-8DCE-85E1B908D12D}|XMLProject\\XMLProject.csproj|solutionrelative:xmlproject\\xmlproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCustomerByCifResponse.xml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\XMLProject\\XMLProject\\GetCustomerByCifResponse.xml",
+              "RelativeDocumentMoniker": "XMLProject\\GetCustomerByCifResponse.xml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\XMLProject\\XMLProject\\GetCustomerByCifResponse.xml",
+              "RelativeToolTip": "XMLProject\\GetCustomerByCifResponse.xml",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwJ0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-15T11:45:51.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\XMLProject\\XMLProject\\Dockerfile",
+              "RelativeDocumentMoniker": "XMLProject\\Dockerfile",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\XMLProject\\XMLProject\\Dockerfile",
+              "RelativeToolTip": "XMLProject\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-15T11:38:14.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XMLProject",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\XMLProject\\XMLProject\\XMLProject.csproj",
+              "RelativeDocumentMoniker": "XMLProject\\XMLProject.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\XMLProject\\XMLProject\\XMLProject.csproj",
+              "RelativeToolTip": "XMLProject\\XMLProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T11:26:27.795Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -28,7 +79,7 @@
               "RelativeDocumentMoniker": "XMLProject\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\XMLProject\\XMLProject\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "XMLProject\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAkwLkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T10:34:04.856Z",
               "EditorCaption": ""

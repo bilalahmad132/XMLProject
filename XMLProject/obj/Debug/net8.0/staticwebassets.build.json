@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "2d7O8kGRWnNGItZYmb9Ao3S4gPF4g4Bn1R83urm95YU=",
+  "Hash": "E6nr/0cToM66Belebw/KtnPcNOqvv/rVE8qpH7a2w7Q=",
   "Source": "XMLProject",
   "BasePath": "_content/XMLProject",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

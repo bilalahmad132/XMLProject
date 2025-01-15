@@ -30,3 +30,8 @@ C:\Users\User\source\repos\XMLProject\XMLProject\obj\Debug\net8.0\refint\XMLProj
 C:\Users\User\source\repos\XMLProject\XMLProject\obj\Debug\net8.0\XMLProject.pdb
 C:\Users\User\source\repos\XMLProject\XMLProject\obj\Debug\net8.0\XMLProject.genruntimeconfig.cache
 C:\Users\User\source\repos\XMLProject\XMLProject\obj\Debug\net8.0\ref\XMLProject.dll
+C:\Users\User\source\repos\XMLProject\XMLProject\bin\Debug\net8.0\XMLProject.staticwebassets.endpoints.json
+C:\Users\User\source\repos\XMLProject\XMLProject\obj\Debug\net8.0\XMLProject.sourcelink.json
+C:\Users\User\source\repos\XMLProject\XMLProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\XMLProject\XMLProject\obj\Debug\net8.0\staticwebassets\msbuild.XMLProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\source\repos\XMLProject\XMLProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
