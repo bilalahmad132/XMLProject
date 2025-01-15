@@ -1,0 +1,44 @@
+name: Pull Request and Push Workflow
+ 
+on:
+  push:
+    branches:
+      - main  # Trigger on push to the main branch
+  pull_request_review:
+    types:
+      - submitted  # Trigger on pull request review submission
+ 
+jobs:
+  build:
+    runs-on: windows-latest  # Use a Windows environment
+ 
+    steps:
+      # Common steps for both events
+      - name: Trigger source
+        run: echo "Event Triggered by ${{ github.event_name }}"
+ 
+      # Conditional step for pull_request_review
+      - name: Check if review is approved
+        if: ${{ github.event_name == 'pull_request_review' && github.event.review.state == 'approved' }}
+        run: echo "Pull Request Approved. Proceeding with the build."
+ 
+      # Conditional step for push
+      - name: Checkout the repository for Push or Approved PR
+        if: ${{ github.event_name == 'push' || (github.event_name == 'pull_request_review' && github.event.review.state == 'approved') }}
+        uses: actions/checkout@v2
+ 
+      - name: Setup MSBuild
+        if: ${{ github.event_name == 'push' || (github.event_name == 'pull_request_review' && github.event.review.state == 'approved') }}
+        uses: microsoft/setup-msbuild@v2
+ 
+      - name: Setup NuGet
+        if: ${{ github.event_name == 'push' || (github.event_name == 'pull_request_review' && github.event.review.state == 'approved') }}
+        uses: NuGet/setup-nuget@v2.0.0
+ 
+      - name: Restore NuGet packages
+        if: ${{ github.event_name == 'push' || (github.event_name == 'pull_request_review' && github.event.review.state == 'approved') }}
+        run: nuget restore ProductsApi.sln
+ 
+      - name: Build the Solution
+        if: ${{ github.event_name == 'push' || (github.event_name == 'pull_request_review' && github.event.review.state == 'approved') }}
+        run: msbuild ProductsApi.sln
