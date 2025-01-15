@@ -37,8 +37,8 @@ jobs:
  
       - name: Restore NuGet packages
         if: ${{ github.event_name == 'push' || (github.event_name == 'pull_request_review' && github.event.review.state == 'approved') }}
-        run: nuget restore ProductsApi.sln
+        run: nuget restore XMLProject.sln
  
       - name: Build the Solution
         if: ${{ github.event_name == 'push' || (github.event_name == 'pull_request_review' && github.event.review.state == 'approved') }}
-        run: msbuild ProductsApi.sln
+        run: msbuild XMLProject.sln
