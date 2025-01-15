@@ -8,7 +8,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copy the .csproj file and restore any dependencies (via dotnet restore)
-COPY ["ProductsApi.csproj", "./"]
+COPY ["XMLProject.csproj", "./"]
 RUN dotnet restore "./XMLProject.csproj"
 
 # Copy the rest of the code
